@@ -2,5 +2,35 @@
   "type": "module",
   "dependencies": {
     "typescript": "^5.6.2"
-  }
+  },
+  "name": "cn-js",
+  "version": "1.0.0",
+  "description": "Chinese JavaScript adds support for Chinese syntax in JavaScript code within VS Code. It replaces traditional JavaScript keywords with their Chinese equivalents, providing a localized programming experience for Chinese-speaking developers. Features include syntax highlighting and language support for `.cn.js` files, making it easier to write and read JavaScript code using Chinese terms.",
+  "main": "compiler.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/notedwin-dev/chinese-js"
+  },
+  "keywords": [
+    "chinese-js",
+    "cnjs",
+    "cn-js",
+    "cndotjs",
+    "chinesedotjs",
+    "chinese-syntax",
+    "localized-js",
+    "multilingual-js",
+    "js-localization",
+    "language-extension"
+  ],
+  "author": "notedwin-dev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/notedwin-dev/chinese-js/issues"
+  },
+  "homepage": "https://github.com/notedwin-dev/chinese-js#readme"
 }
