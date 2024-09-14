@@ -27,7 +27,7 @@ Chinese JavaScript is a project aimed at providing basic features for writing an
 
 ## Basic Usage
 
-To use Chinese JavaScript, simply create a `.cn.js` file and start writing JavaScript code using Chinese keywords. The extension will automatically provide syntax highlighting and language support. You can get it [here](https://github.com/notedwin-dev/cn-js-extension)
+To use Chinese JavaScript, simply create a `.cn.js` file and start writing JavaScript code using Chinese keywords. The extension will automatically provide syntax highlighting and language support. You can get it [here](https://github.com/notedwin-dev/cn-js-language-extension)
 
 ## Basic Syntax Hightlighting that are currently supported by cn-js
 
