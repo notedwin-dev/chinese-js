@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "es2017", // This allows ES6+ syntax
+    "lib": ["es2017", "dom"], // This allows ES2016+ methods like `startsWith` and `includes`
+    "module": "commonjs",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true
+  },
+  "exclude": ["node_modules"]
+}
