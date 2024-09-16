@@ -2,6 +2,13 @@
 
 Chinese JavaScript is a project aimed at providing basic features for writing and running JavaScript code with Chinese syntax. It includes a VM code runner to execute JavaScript code in an isolated sandbox environment.
 
+### A little background behind Chinese JS
+
+This was originally just a ***meme*** between my developer friends and myself. But then I told myself, I could never find such a language that allows me to code in Chinese! Why not I build one myself? **So this is how CN-js was born**. It turned **from a meme** that everyone laughed and forget about after a while **into a potentially huge project** where so many Chinese developers may benefit from it.
+
+So here is the Chinese locale version of our favourite programming language, **JavaScript**!
+
+
 ## Features
 
 - Write JavaScript code using Chinese syntax.
